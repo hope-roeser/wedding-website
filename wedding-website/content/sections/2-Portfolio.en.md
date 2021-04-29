@@ -1,7 +1,7 @@
 ---
-anchor: "Portfolio"
-header: "Portfolio"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+anchor: "FAQs"
+header: "Frequently Asked Questions"
+subheader: "Got a question? See if you can find the answer below before reaching out to the bride or groom."
 portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",

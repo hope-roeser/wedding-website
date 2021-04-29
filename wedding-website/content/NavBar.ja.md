@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "Hope + Chet"
 menuText: "メニュー "
 ---

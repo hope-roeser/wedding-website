@@ -11,6 +11,7 @@
     "@fortawesome/free-brands-svg-icons": "^5.13.0",
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@fortawesome/react-fontawesome": "^0.1.9",
+    "add": "^2.0.6",
     "bootstrap": "^4.4.1",
     "clsx": "^1.1.0",
     "gatsby": "^2.20.22",
@@ -45,6 +46,7 @@
     "babel-plugin-transform-imports": "^2.0.0",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "babel-preset-gatsby": "^0.3.1",
+    "core-js": "^2.6.5",
     "cross-env": "^7.0.2",
     "eslint": "^6.8.0",
     "eslint-config-airbnb": "^18.1.0",
@@ -57,6 +59,7 @@
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-hooks": "^3.0.0",
     "gatsby-plugin-eslint": "^2.0.8",
+    "lite-server": "^2.6.1",
     "prettier": "^2.0.4"
   },
   "homepage": "https://thundermiracle.github.io/gatsby-startbootstrap-agency",
@@ -84,6 +87,7 @@
     "serve": "gatsby serve",
     "eslint": "eslint ./src",
     "test": "cross-env NODE_ENV=test yarn run eslint",
-    "testbuild": "yarn test && yarn build"
+    "testbuild": "yarn test && yarn build",
+    "start": "lite-server"
   }
 }

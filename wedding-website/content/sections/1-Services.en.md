@@ -1,22 +1,22 @@
 ---
-anchor: "Services"
-header: "Services"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+anchor: "The Details"
+header: "The Details"
+subheader: "Everything you need to know about the big day"
 services: [
   {
-    iconName: "ShoppingCartIcon",
-    header: "E-Commerce",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    iconName: "Map",
+    header: "Location",
+    content: "Hope and Chet will be marred in Lyons, CO at a gorgerous venue called River Bend."
   },
   {
-    iconName: "LaptopIcon",
-    header: "Responsive Design",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    iconName: "Hotel",
+    header: "Lodging",
+    content: "TBD - Check back in September 2021."
   },
   {
-    iconName: "LockIcon",
-    header: "Web Security",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    iconName: "Transportation",
+    header: "Transportation",
+    content: "TBD - Check back in September 2021."
   }
 ]
 ---

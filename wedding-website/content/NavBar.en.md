@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "HOPE + CHET"
 menuText: "Menu "
 ---
